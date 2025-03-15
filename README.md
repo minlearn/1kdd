@@ -1,1 +1,1 @@
-# moved to [inst/onekeydevdesk](https://github.com/minlearn/inst/tree/master/_build/onekeydevdesk)
+# moved to [appp/devdeskos](https://github.com/minlearn/appp/tree/master/_build/devdeskos)
